@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvResultado;
     private Button btCalculo;
 
-    //teste git dois arquivos
+    //teste git dois arquivos teste diferença
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

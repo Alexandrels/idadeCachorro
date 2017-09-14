@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@android:color/holo_blue_dark"
     tools:context="w2.com.br.idadedecachorro.MainActivity">
-
+<!-- teste dois arquivos -->
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="100dp"

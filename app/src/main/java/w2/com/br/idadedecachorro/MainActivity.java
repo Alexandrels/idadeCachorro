@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvResultado;
     private Button btCalculo;
 
-    //mudando pararar
+    //mudando parararpriv
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
